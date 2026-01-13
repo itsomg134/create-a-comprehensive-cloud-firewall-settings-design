@@ -17,6 +17,8 @@ A modern, intuitive web-based dashboard for managing cloud firewall rules and ne
 - **Responsive Layout** - Works seamlessly on desktop, tablet, and mobile devices
 - **Settings Panel** - Configure default policies, logging levels, and DDoS protection
 
+<img width="1888" height="1061" alt="image" src="https://github.com/user-attachments/assets/1aa12563-2178-4bce-897a-888e95a02bf6" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
